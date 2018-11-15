@@ -1,0 +1,46 @@
+img {
+    width: 70px;
+}
+  
+.alinged {
+    justify-content: center;
+}
+
+body{
+    background: url("https://media.giphy.com/media/8S25zvJxAgN7G/giphy.gif");
+    text-align:center;
+    color: white;
+    font-size: 30px;
+}
+
+img {
+      width:500px;
+      
+      border-raidus: 20px;
+}
+
+p  {
+    color:purple;
+    background-color: grey;
+    font-family:'Allerta Stencil', sans-serif;
+    width: 900px;
+}
+
+important {
+     
+}
+
+marquee {
+     color: yellow;
+  justify-content: center;
+  background-color:#222222;
+  color:yellow;
+  font-family: "comic sans";
+  width:500px;
+}
+
+a {
+    color:orange;
+    
+    font-family: "comic sans";
+}
