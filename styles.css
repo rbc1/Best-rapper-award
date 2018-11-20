@@ -16,7 +16,7 @@ body{
 img {
       width:500px;
       
-      border-raidus: 20px;
+      border:dashed 5px #228489  ;
 }
 
 p  {
@@ -43,4 +43,8 @@ a {
     color:orange;
     
     font-family: "comic sans";
+}
+
+ul {
+    list-style: none;
 }
